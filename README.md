@@ -10,18 +10,22 @@ A gallery app where you can find dessert recipies galore! &#127849;&#127850;&#12
 
 ## Light Mode Preview
 
-<p float="left">
-  <img src="https://drive.google.com/file/d/1gSli4_75Q_QSqgXAELDSHDbGExF2ySgG/view?usp=sharing" width="400" />
-  <img src="https://drive.google.com/file/d/18kegW2qS1imUmHAHDRKe4AMLZccZhxpW/view?usp=sharing" width="400" /> 
+<p float="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1gSli4_75Q_QSqgXAELDSHDbGExF2ySgG" width="230"  height="500" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=18kegW2qS1imUmHAHDRKe4AMLZccZhxpW" width="230"  height=500"/> 
 </p>
 
 Link to Video Demo: https://drive.google.com/file/d/1ZrE_5KEQtEz6VmRC7Zwb7GbnwsHuHars/view?usp=sharing
 
 ## Dark Mode Preview
 
-<p float="left">
-  <img src="https://drive.google.com/file/d/1q9R7cQQ-jC98V6cXdiT3kKybN36m2SHN/view?usp=sharing" width="400" />
-  <img src="https://drive.google.com/file/d/1VFahEi5f0JbFY-DErlRqb9c_aI4Rt2oA/view?usp=sharing" width="400" /> 
+<p float="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1q9R7cQQ-jC98V6cXdiT3kKybN36m2SHN" width="230" height="500" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://drive.google.com/uc?export=view&id=1VFahEi5f0JbFY-DErlRqb9c_aI4Rt2oA" width="230"  height="500"/> 
 </p>
 
 Link to Video Demo: https://drive.google.com/file/d/1nPNN-F_yIjAobr3EXZCa3bMPpvqnyNgA/view?usp=sharing
