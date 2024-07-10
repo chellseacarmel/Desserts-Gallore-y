@@ -1,11 +1,11 @@
 # Dessert Gallore-y
 
 ## Overview
-A gallery app where you can find dessert recipies galore! &#127849;&#127850;&#127854;&#127856;
+A gallery app where you can find dessert recipes galore! &#127849;&#127850;&#127854;&#127856;
 
 ## Features
 - **Browse Desserts:** View a large collection of desserts from around the world.
-- **Recipie:** View recipies with ingredients and instructions for your favorite desserts.
+- **Recipe:** View recipies with ingredients and instructions for your favorite desserts.
 - **Also Supports Light and Dark Modes**
 
 ## Light Mode Preview
