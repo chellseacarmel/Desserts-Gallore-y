@@ -5,7 +5,7 @@ A gallery app where you can find dessert recipes galore! &#127849;&#127850;&#127
 
 ## Features
 - **Browse Desserts:** View a large collection of desserts from around the world.
-- **Recipe:** View recipies with ingredients and instructions for your favorite desserts.
+- **Recipe:** View recipes with ingredients and instructions for your favorite desserts.
 - **Also Supports Light and Dark Modes**
 
 ## Light Mode Preview
